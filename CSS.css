@@ -1,0 +1,32 @@
+body {
+        margin: 0;
+}
+header {
+  background-color: #EFD700;
+  padding-top: 25px;
+  padding-bottom: 24px;
+  padding-right: 39px;
+      }
+nav{
+  text-align: right;
+}      
+a {
+        display: Inline-block;
+        color: #000000;
+        font-size:32px;
+        font-family: "Baloo Bhai 2","Baloo Bhaiana 2";
+        font-weight: 800;
+        text-decoration: none;
+        padding-right:49px;
+      }
+#button {
+  display: inline-block;
+  border-width: 6px;
+  border-style: solid;
+  padding-left: 4px;
+  padding-right: 4px;
+  transition: transform 100ms linear;
+}
+#button:hover {
+  transform: scale(1.1);
+}
