@@ -1,10 +1,10 @@
-h1 {
+h2{
+	color: #252525;
 	font-family: "Reem Kufi Fun", "sans-serif";
-	font-size: 75px;
-	font-weight: 700;
+	font-size: 40px;
+	font-weight: 400;
 	display: block;
 	text-align: right;
-	padding-top: 48px;
+	margin: 0;
 	padding-right: 23px;
-	margin:0;
 }
